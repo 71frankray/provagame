@@ -1,2 +1,2 @@
-# provagame
+# ciao-mondo
 puzzle matematico
